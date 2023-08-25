@@ -1,6 +1,3 @@
-# Library_Management_System
-This is a database system for managing books in a library. 
-
 library system:
 	-add new book
 	-editing book 
@@ -39,3 +36,6 @@ publisher:
 
 author:
 	-name
+
+
+
