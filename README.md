@@ -74,15 +74,19 @@ users:
 	-email address
 
 day-to-day:
+
 	-book name
 	-retrieve/rent
 	-days
 
 category:
+
 	-name
 
 publisher:
+
 	-name
 
 author:
-	-name
+
+ 	-name
